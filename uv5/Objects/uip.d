@@ -1,0 +1,12 @@
+.\objects\uip.o: ..\src\uip\uip\uip.c
+.\objects\uip.o: ..\src\uip\uip\uip.h
+.\objects\uip.o: ..\src\uip\uip\uipopt.h
+.\objects\uip.o: ..\src\uip\uip\uip-conf.h
+.\objects\uip.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\uip.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\uip.o: ..\src\uip\apps\resolv\resolv.h
+.\objects\uip.o: ..\src\uip\uip\uipopt.h
+.\objects\uip.o: ..\src\tcp-demo.h
+.\objects\uip.o: ..\src\uip\uip\uip_arch.h
+.\objects\uip.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\uip.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

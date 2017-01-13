@@ -1,0 +1,13 @@
+.\objects\tcp-demo.o: ..\src\tcp-demo.c
+.\objects\tcp-demo.o: ..\src\tcp-demo.h
+.\objects\tcp-demo.o: ..\src\uip\uip\uipopt.h
+.\objects\tcp-demo.o: ..\src\uip\uip\uip-conf.h
+.\objects\tcp-demo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\tcp-demo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tcp-demo.o: ..\src\uip\apps\resolv\resolv.h
+.\objects\tcp-demo.o: ..\src\uip\uip\uipopt.h
+.\objects\tcp-demo.o: ..\src\tcp-demo.h
+.\objects\tcp-demo.o: ..\src\uip\uip\uip.h
+.\objects\tcp-demo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\tcp-demo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\tcp-demo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

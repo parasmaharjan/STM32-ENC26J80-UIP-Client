@@ -1,0 +1,11 @@
+.\objects\resolv.o: ..\src\uip\apps\resolv\resolv.c
+.\objects\resolv.o: ..\src\uip\apps\resolv\resolv.h
+.\objects\resolv.o: ..\src\uip\uip\uipopt.h
+.\objects\resolv.o: ..\src\uip\uip\uip-conf.h
+.\objects\resolv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\resolv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\resolv.o: ..\src\uip\apps\resolv\resolv.h
+.\objects\resolv.o: ..\src\tcp-demo.h
+.\objects\resolv.o: ..\src\uip\uip\uipopt.h
+.\objects\resolv.o: ..\src\uip\uip\uip.h
+.\objects\resolv.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
